@@ -21,11 +21,11 @@ struct articulo productos[100] = {
 	"GASEOSAS", 1.0, 1.5, 10,
 	"FRITURAS", 0.5, 0.7, 10,
 	"CHOCOLATE",1.0,1.5,10,
-	"ARROZ",2.7, 4.0, 10,
-	"AZUCAR",50.5, 5.0, 10,
+	"TELEVISOR",990.50, 1599.9, 10,
+	"IMPRESORA",400, 999.9, 10,
 	"ACEITE",4.8, 6.0, 10,
-	"HUEVOS",5.5, 6.5, 10,
-	"TOMATES",2.7, 3.5, 10,
+	"TALADRO",5.5, 6.5, 10,
+	"MARTILLO",2.7, 3.5, 10,
 	};
 void titulo(){
     cout<<"\n"<<endl;
